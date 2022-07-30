@@ -23,7 +23,7 @@ function preload()
   ist3 = loadImage("Arrow1.png")
   ist4 = loadImage("instruction1.png")
   music = loadSound("Eric Skiff - A Night Of Dizzy Spells ♫ NO COPYRIGHT 8-bit Music + Background.wav")
-  music2  = loadSound("Jeremy Blake - Powerup! ♫ NO COPYRIGHT 8-bit Music.wav")
+  music2  = loadSound("Joshua McLean - Mountain Trials ♫ NO COPYRIGHT 8-bit Music.wav")//there was a diferent song here but the file was too large to upload.
   music3 = loadSound("Joshua McLean - Mountain Trials ♫ NO COPYRIGHT 8-bit Music.wav")
   music4 = loadSound("AdhesiveWombat - Night Shade ♫ NO COPYRIGHT 8-bit Music.wav")
   music5 = loadSound("music2 Can't Stop Won't Stop.mp3")
